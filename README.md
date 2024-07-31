@@ -24,7 +24,7 @@ You can view the live demo [here](https://gemini-clone-navdip.netlify.app/).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/gemini-clone.git
+    git clone https://github.com/Navdip-2003/gemini-clone.git
     ```
 2. Navigate to the project directory:
     ```sh
