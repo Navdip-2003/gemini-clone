@@ -58,10 +58,8 @@ You can view the live demo [here](https://gemini-clone-navdip.netlify.app/).
 - Gemini API
 - Netlify
 
-## Contributing
+![image](https://github.com/user-attachments/assets/a2f20573-8534-4839-a12f-3168a2891207)
+![image](https://github.com/user-attachments/assets/66392c1f-2937-4218-a45c-49bc962a0cab)
+![image](https://github.com/user-attachments/assets/e9e8ffbe-0bb3-4cf2-9abf-10517b94069c)
 
-Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
